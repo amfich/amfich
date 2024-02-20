@@ -5,16 +5,30 @@
 
 <div align="center">
   <h2>Technology Stack</h2>
-    <a href="https://battle-stallion-fa2.notion.site/Unity-Skills-1229ddb735394a76a6be1ea18d54da23">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="margin: 10px;">
+      <a href="https://battle-stallion-fa2.notion.site/Unity-Skills-1229ddb735394a76a6be1ea18d54da23">
         <img src="https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity" alt="Unity">
-    </a>
-    <a href="https://battle-stallion-fa2.notion.site/C-71b18dd3e3a64d16a9e4f5d1c8eb30b4">
+      </a>
+    </div>
+    <div style="margin: 10px;">
+      <a href="https://battle-stallion-fa2.notion.site/C-71b18dd3e3a64d16a9e4f5d1c8eb30b4">
         <img src="https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF" alt="CSharp">
-    </a>
-  <img src="https://img.shields.io/badge/-Adobe_Photoshop-090909?style=for-the-badge&logo=adobephotoshop" alt="Adobe Photoshop">
-    <img src="https://img.shields.io/badge/-Adobe_Premiere_Pro-090909?style=for-the-badge&logo=adobepremierepro" alt="Adobe Premiere Pro">
-    <img src="https://img.shields.io/badge/-Adobe_Illustrator-090909?style=for-the-badge&logo=adobeillustrator" alt="Adobe Illustrator">
-    <img src="https://img.shields.io/badge/-Audacity-090909?style=for-the-badge&logo=audacity" alt="Audacity">
+      </a>
+    </div>
+    <div style="margin: 10px;">
+      <img src="https://img.shields.io/badge/-Adobe_Photoshop-090909?style=for-the-badge&logo=adobephotoshop" alt="Adobe Photoshop">
+    </div>
+    <div style="margin: 10px;">
+      <img src="https://img.shields.io/badge/-Adobe_Premiere_Pro-090909?style=for-the-badge&logo=adobepremierepro" alt="Adobe Premiere Pro">
+    </div>
+    <div style="margin: 10px;">
+      <img src="https://img.shields.io/badge/-Adobe_Illustrator-090909?style=for-the-badge&logo=adobeillustrator" alt="Adobe Illustrator">
+    </div>
+    <div style="margin: 10px;">
+      <img src="https://img.shields.io/badge/-Audacity-090909?style=for-the-badge&logo=audacity" alt="Audacity">
+    </div>
+  </div>
 </div>
 
 
