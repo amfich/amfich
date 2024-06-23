@@ -12,7 +12,7 @@
       </a>
     </div>
     <div style="margin: 10px;">
-      <a href="https://battle-stallion-fa2.notion.site/C-71b18dd3e3a64d16a9e4f5d1c8eb30b4">
+      <a href="https://battle-stallion-fa2.notion.site/Amfich-CV-8a669dfb05084567b423ed32b59a854a?pvs=74">
         <img src="https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF" alt="CSharp">
       </a>
     </div>
